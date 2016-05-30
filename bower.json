@@ -1,0 +1,24 @@
+{
+  "name": "modal",
+  "homepage": "https://github.com/Nitin-Prabhakar/test-webcomponent-with-modal",
+  "authors": [
+    "Nitin <pmitwithnitin@gmail.com>"
+  ],
+  "description": "Testing modals with webcomponents",
+  "main": "index.html",
+  "keywords": [
+    "modal",
+    "polymer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "^1.4.0"
+  }
+}
